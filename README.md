@@ -12,7 +12,7 @@ Basic HTML writing.
     Use of absolute and relative links.
 
 GIT / GITHUB  navigation.
-    Repository creatiom.
+    Repository creation.
 
 Commandline proficiency.
     Usage of functions to navigate up and down the commandline.
